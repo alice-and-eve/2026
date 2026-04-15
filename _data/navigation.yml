@@ -1,0 +1,26 @@
+- title: Home
+  url: /
+
+- title: Registration
+  url: /registration
+
+- title: Program
+  url: /#program
+
+- title: Poster Contest
+  url: /#poster-contest
+
+- title: Exhibition
+  url: /#exhibition
+
+- title: Speakers
+  url: /#speakers
+
+- title: Sponsors
+  url: /#sponsors
+
+- title: Contact
+  url: /#contact-us
+
+- title: About Utrecht
+  url: /aboutUtrecht
