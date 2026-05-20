@@ -38,13 +38,30 @@ The workshop will be held at Neude11 Utrecht Public Library in Utrecht.
 
 <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2447.751991104805!2d4.482933476457672!3d52.15701986304036!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c5c6f2447daae3%3A0x48e9dc4f075bb167!2z6I6x6aG_5aSn5a2m!5e0!3m2!1szh-CN!2snl!4v1710771504599!5m2!1snl!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
 
-### Registration: <!--(closes on 24 October):-->
+### Registration:
 
-TBD
+Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target="_blank" rel="noopener noreferrer">https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4</a>
 
 ## Program
 
-TBD
+| Time | Session |
+|------|---------|
+| 09:30 – 10:00 | Registration and Coffee |
+| 10:00 – 10:10 | Opening |
+| 10:10 – 10:40 | Talk on Knowledge Engineering |
+| 10:40 – 11:10 | Talk on Machine Learning |
+| 11:10 – 11:30 | ☕ Coffee Break |
+| 11:30 – 12:00 | Talk on Human–Computer Interaction |
+| 12:00 – 12:30 | Talk on Algorithms |
+| 12:30 – 14:00 | 🍽 Lunch Break & Exhibition |
+| 14:00 – 14:30 | Sponsor Lightning Talks |
+| 14:30 – 15:00 | Talk on Computer Networks |
+| 15:00 – 15:30 | ☕ Coffee Break |
+| 15:30 – 16:00 | Talk on Security |
+| 16:00 – 16:15 | Poster Awards |
+| 16:15 – 17:00 | Panel on "Resilience in Computing" |
+| 17:00 – 17:10 | Closing |
+| 17:10 – 18:00 | 🥂 Drinks |
 
 ## Poster Contest
 
@@ -111,7 +128,9 @@ TBD
 
 ## About Utrecht
 
-TBD
+Utrecht is one of the Netherlands' oldest and most vibrant cities, located right at the heart of the country. It is home to the iconic Dom Tower, medieval canal wharves, world-class museums, and three UNESCO World Heritage Sites. Utrecht Centraal station is the largest railway hub in the Netherlands — just 30 minutes from Amsterdam and 35–40 minutes from Schiphol Airport.
+
+[Read more about Utrecht →](/aboutUtrecht)
 
 ## Accommodation
 
