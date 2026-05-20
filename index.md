@@ -124,7 +124,7 @@ TBD
 
 ## Contact Us
 
-TBD
+For any questions, feel free to reach out to us at <a href="mailto:alice.eve@uu.nl">alice.eve@uu.nl</a>.
 
 ## About Utrecht
 
