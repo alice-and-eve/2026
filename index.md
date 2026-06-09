@@ -119,7 +119,24 @@ This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.c
 
 ## Sponsors
 
-TBD
+**🥇 Gold Sponsors**
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <a href="https://duckdblabs.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/duckdb-labs-horizontal-logo-2025.png" alt="DuckDB Labs" style="height: 60px;">
+  </a>
+  <a href="https://www.nwo.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/NWO logo - full colour - RGB - transparent background.png" alt="NWO" style="height: 80px;">
+  </a>
+</div>
+
+**🥉 Bronze Sponsors**
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem;">
+  <a href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
+  </a>
+</div>
 
 
 ## Contact Us
