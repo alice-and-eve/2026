@@ -40,7 +40,7 @@ The workshop will be held at Neude11 Utrecht Public Library in Utrecht.
 
 ### Registration:
 
-Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target="_blank" rel="noopener noreferrer">https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4</a>
+Register here: <a href="https://alice-and-eve.github.io/2026/registration" target="_blank" rel="noopener noreferrer">https://alice-and-eve.github.io/2026/registration</a>
 
 ## Program
 
