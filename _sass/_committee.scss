@@ -1,0 +1,65 @@
+/* Organizing committee cards */
+
+.committee-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.25rem 2.5rem;
+  margin: 1.5rem 0;
+}
+
+@media (min-width: 40rem) {
+  .committee-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.committee-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.committee-member img {
+  width: 80px;
+  height: 80px;
+  object-fit: cover;
+  flex-shrink: 0;
+  border: 1px solid #ddd;
+  padding: 2px;
+  background: #fff;
+}
+
+.committee-member .info {
+  line-height: 1.35;
+}
+
+.committee-member .name {
+  font-size: 1.1em;
+  font-weight: 600;
+}
+
+.committee-member .name a {
+  text-decoration: none;
+}
+
+.committee-member .name a:hover {
+  text-decoration: underline;
+}
+
+.committee-member .role {
+  font-size: 0.8em;
+  font-weight: 400;
+  color: #888;
+  margin-left: 0.35em;
+  white-space: nowrap;
+}
+
+.committee-member .affiliation {
+  font-weight: 700;
+  color: #222;
+}
+
+.committee-member .country {
+  font-size: 0.85em;
+  color: #888;
+}

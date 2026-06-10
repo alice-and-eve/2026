@@ -90,17 +90,80 @@ TBD
 
 ## Organizing Committee
 
-| Role | Name |
-|------|------|
-| General co-chair | [Kate Labunets](https://www.uu.nl/staff/KLabunets) |
-| General co-chair | [Maartje de Graaf](https://www.uu.nl/staff/MMAdeGraaf) |
-| Local chairs | [Kimberley van Engelenhoven-Lenting](https://www.uu.nl/staff/IRvanEngelenhovenLenting) |
-| Administration liaison | [Martina Radli](https://www.uu.nl/staff/MRadli) |
-| Program chair | [Hanna Hauptmann](https://www.uu.nl/staff/HJHauptmann) |
-| Poster chair | [Roxana Radulescu](https://www.uu.nl/staff/RTRadulescu) |
-| Finance & sponsors | [Sylvia Kerkhove](https://www.uu.nl/staff/SSKerkhove) |
-| Communication co-chair | [Karlijn Dinnissen](https://www.uu.nl/staff/KDinnissen) |
-| Communication co-chair | [Fatma Başak Aydemir](https://www.uu.nl/medewerkers/FBAydemir) |
+<div class="committee-grid">
+  <div class="committee-member">
+    <img src="assets/profile-pictures/kate-labunets.jpg" alt="Kate Labunets">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/KLabunets">Kate Labunets</a><span class="role">General Co-Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/maartje-de-graaf.jpg" alt="Maartje de Graaf">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/MMAdeGraaf">Maartje de Graaf</a><span class="role">General Co-Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/kimberley-van-engelenhoven-lenting.jpg" alt="Kimberley van Engelenhoven-Lenting">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/IRvanEngelenhovenLenting">Kimberley van Engelenhoven-Lenting</a><span class="role">Local Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/martina-radli.jpg" alt="Martina Radli">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/MRadli">Martina Radli</a><span class="role">Administration Liaison</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/hanna-hauptmann.jpg" alt="Hanna Hauptmann">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/HJHauptmann">Hanna Hauptmann</a><span class="role">Program Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/roxana-radulescu.jpg" alt="Roxana Radulescu">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/RTRadulescu">Roxana Radulescu</a><span class="role">Poster Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/placeholder.svg" alt="Sylvia Kerkhove">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/SSKerkhove">Sylvia Kerkhove</a><span class="role">Finance &amp; Sponsors</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/karlijn-dinnissen.jpg" alt="Karlijn Dinnissen">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/staff/KDinnissen">Karlijn Dinnissen</a><span class="role">Communication Co-Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+  <div class="committee-member">
+    <img src="assets/profile-pictures/fatma-basak-aydemir.jpg" alt="Fatma Başak Aydemir">
+    <div class="info">
+      <span class="name"><a href="https://www.uu.nl/medewerkers/FBAydemir">Fatma Başak Aydemir</a><span class="role">Communication Co-Chair</span></span><br>
+      <span class="affiliation">Utrecht University</span><br>
+      <span class="country">Netherlands</span>
+    </div>
+  </div>
+</div>
 
 ## Steering committee
 
@@ -138,6 +201,16 @@ This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.c
 
 ## Sponsors
 
+Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please contact our sponsor chair at <a href="mailto:s.s.kerkhove@uu.nl">s.s.kerkhove@uu.nl</a>.
+
+**🥉 Bronze Sponsors**
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem;">
+  <a href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
+  </a>
+</div>
+
 **🥇 Gold Sponsors**
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
@@ -149,15 +222,9 @@ This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.c
   </a>
 </div>
 
-**🥉 Bronze Sponsors**
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem;">
-  <a href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
-  </a>
-</div>
 
-Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please contact our sponsor chair at <a href="mailto:s.s.kerkhove@uu.nl">s.s.kerkhove@uu.nl</a>.
+
 
 
 ## Contact Us
