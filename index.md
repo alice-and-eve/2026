@@ -90,7 +90,17 @@ TBD
 
 ## Organizing Committee
 
-TBD
+| Role | Name |
+|------|------|
+| General co-chair | [Kate Labunets](https://www.uu.nl/staff/KLabunets) |
+| General co-chair | [Maartje de Graaf](https://www.uu.nl/staff/MMAdeGraaf) |
+| Local chairs | [Kimberley van Engelenhoven-Lenting](https://www.uu.nl/staff/IRvanEngelenhovenLenting) |
+| Administration liaison | [Martina Radli](https://www.uu.nl/staff/MRadli) |
+| Program chair | [Hanna Hauptmann](https://www.uu.nl/staff/HJHauptmann) |
+| Poster chair | [Roxana Radulescu](https://www.uu.nl/staff/RTRadulescu) |
+| Finance & sponsors | [Sylvia Kerkhove](https://www.uu.nl/staff/SSKerkhove) |
+| Communication co-chair | [Karlijn Dinnissen](https://www.uu.nl/staff/KDinnissen) |
+| Communication co-chair | [Fatma Başak Aydemir](https://www.uu.nl/medewerkers/FBAydemir) |
 
 ## Steering committee
 
@@ -101,6 +111,7 @@ TBD
 - [Machiel van der Bijl](https://www.axini.com/nl/about/), Axini
 - [Lu Cao](https://www.universiteitleiden.nl/en/staffmembers/lu-cao#tab-1), Leiden University
 - [Jiapan Guo](https://www.rug.nl/staff/j.guo/), University of Groningen
+- [Fatma Başak Aydemir](https://www.uu.nl/medewerkers/FBAydemir), Utrecht University
 
 ## Code of Conduct
 Alice and Eve is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. We do not tolerate harassment of conference participants in any form. Conference participants violating these rules may be sanctioned or expelled from the conference at the discretion of the conference organizers.
@@ -145,6 +156,8 @@ This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.c
     <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
   </a>
 </div>
+
+Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please contact our sponsor chair at <a href="mailto:s.s.kerkhove@uu.nl">s.s.kerkhove@uu.nl</a>.
 
 
 ## Contact Us
