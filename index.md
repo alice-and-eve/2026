@@ -14,7 +14,7 @@ Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswome
 
 
 Alice and Eve event is inspired by the <a href="https://bcswomenlovelace.bcs.org/" target="_blank" rel="noopener noreferrer">BCS Lovelace Colloquium</a> that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/" target="_blank" rel="noopener noreferrer">2020</a>, <a href="https://aliceandeve.cs.ru.nl/" target="_blank" rel="noopener noreferrer">2021</a>, <a href="https://alice-and-eve.github.io/2022/" target="_blank" rel="noopener noreferrer">2022</a>
-, <a href="https://alice-and-eve.github.io/2023/" target="_blank" rel="noopener noreferrer">2023</a>, <a href="https://alice-and-eve.github.io/2024/" target="_blank" rel="noopener noreferrer">2024</a>.
+, <a href="https://alice-and-eve.github.io/2023/" target="_blank" rel="noopener noreferrer">2023</a>, <a href="https://alice-and-eve.github.io/2024/" target="_blank" rel="noopener noreferrer">2024</a>, and <a href="https://alice-and-eve.github.io/2025/" target="_blank" rel="noopener noreferrer">2025</a>.
 
 
 The event is held during a single day, and features:
