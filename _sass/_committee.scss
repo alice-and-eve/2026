@@ -19,7 +19,8 @@
   gap: 1rem;
 }
 
-.committee-member img {
+.container .committee-member img {
+  margin: 0;
   width: 80px;
   height: 80px;
   object-fit: cover;
