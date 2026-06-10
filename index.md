@@ -142,7 +142,7 @@ TBD
   <div class="committee-member">
     <img src="assets/profile-pictures/placeholder.svg" alt="Sylvia Kerkhove">
     <div class="info">
-      <span class="name"><a href="https://www.uu.nl/staff/SSKerkhove">Sylvia Kerkhove</a><span class="role">Finance &amp; Sponsors</span></span><br>
+      <span class="name"><a href="https://www.uu.nl/staff/SSKerkhove">Sylvia Kerkhove</a><span class="role">Finance &amp; Sponsors Chair</span></span><br>
       <span class="affiliation">Utrecht University</span><br>
       <span class="country">Netherlands</span>
     </div>
