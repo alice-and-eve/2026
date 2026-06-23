@@ -220,6 +220,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   <a href="https://www.nwo.nl" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/NWO logo - full colour - RGB - transparent background.png" alt="NWO" style="height: 80px;">
   </a>
+  <a href="https://www.versen.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/versen.svg" alt="Versen" style="height: 60px;">
+  </a>
 </div>
 
 
