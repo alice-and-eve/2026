@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 60" width="220" height="60">
+  <defs>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#818cf8"/>
+      <stop offset="100%" style="stop-color:#c084fc"/>
+    </linearGradient>
+  </defs>
+  <!-- Shield icon (simplified from their branding) -->
+  <path d="M22 8 L10 13 L10 28 C10 36 16 42 22 45 C28 42 34 36 34 28 L34 13 Z"
+        fill="url(#textGrad)" opacity="0.9"/>
+  <path d="M16 27 L20 31 L28 22" stroke="white" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <!-- TrustHub text -->
+  <text x="42" y="33" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="800" fill="url(#textGrad)">TrustHub</text>
+</svg>

@@ -209,6 +209,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   <a href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
   </a>
+  <a href="https://softwaretrusthub.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/trusthub.svg" alt="TrustHub" style="height: 50px;">
+  </a>
 </div>
 
 **🥇 Gold Sponsors**
