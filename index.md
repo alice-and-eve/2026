@@ -226,6 +226,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   <a href="https://www.versen.nl" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/versen.svg" alt="Versen" style="height: 60px;">
   </a>
+  <a href="https://www.sidn.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/SIDN.png" alt="SIDN" style="height: 60px;">
+  </a>
 </div>
 
 
