@@ -205,32 +205,32 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
 
 **🥉 Bronze Sponsors**
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem;">
-  <a href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/lnvh.png" alt="LNVH" style="height: 50px;">
+<div class="sponsor-tier sponsor-tier--bronze">
+  <a class="sponsor-logo" href="https://www.lnvh.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/lnvh.png" alt="LNVH">
   </a>
-  <a href="https://softwaretrusthub.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/trusthub.svg" alt="TrustHub" style="height: 50px;">
+  <a class="sponsor-logo" href="https://softwaretrusthub.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/trusthub.svg" alt="TrustHub">
   </a>
-  <a href="https://www.siks.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/siks300.png" alt="SIKS" style="height: 50px;">
+  <a class="sponsor-logo" href="https://www.siks.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/siks300.png" alt="SIKS">
   </a>
 </div>
 
 **🥇 Gold Sponsors**
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
-  <a href="https://duckdblabs.com" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/duckdb-labs-horizontal-logo-2025.png" alt="DuckDB Labs" style="height: 60px;">
+<div class="sponsor-tier sponsor-tier--gold">
+  <a class="sponsor-logo" href="https://duckdblabs.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/duckdb-labs-horizontal-logo-2025.png" alt="DuckDB Labs">
   </a>
-  <a href="https://www.nwo.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/NWO logo - full colour - RGB - transparent background.png" alt="NWO" style="height: 80px;">
+  <a class="sponsor-logo" href="https://www.nwo.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/NWO logo - full colour - RGB - transparent background.png" alt="NWO">
   </a>
-  <a href="https://www.versen.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/versen.svg" alt="Versen" style="height: 60px;">
+  <a class="sponsor-logo" href="https://www.versen.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/versen.svg" alt="Versen">
   </a>
-  <a href="https://www.sidn.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/SIDN.png" alt="SIDN" style="height: 60px;">
+  <a class="sponsor-logo" href="https://www.sidn.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/SIDN.png" alt="SIDN">
   </a>
 </div>
 

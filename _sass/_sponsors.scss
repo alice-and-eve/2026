@@ -1,0 +1,36 @@
+// Sponsor logo grid
+//
+// Each logo sits in a fixed-height box and scales to fit via
+// object-fit: contain, so source files with different intrinsic
+// padding/aspect ratios still read as the same visual size.
+
+.sponsor-tier {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2.25rem;
+  margin: 0.75rem 0 2rem;
+}
+
+.sponsor-logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 52px;
+}
+
+.sponsor-logo img {
+  display: block;
+  height: 100%;
+  width: auto;
+  max-width: 170px;
+  object-fit: contain;
+}
+
+.sponsor-tier--gold .sponsor-logo {
+  height: 68px;
+}
+
+.sponsor-tier--gold .sponsor-logo img {
+  max-width: 210px;
+}
