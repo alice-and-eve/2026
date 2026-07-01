@@ -213,7 +213,7 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
     <img src="assets/sponsors-logo/trusthub.svg" alt="TrustHub" style="height: 50px;">
   </a>
   <a href="https://www.siks.nl" target="_blank" rel="noopener noreferrer">
-    <img src="assets/sponsors-logo/siks300.png" alt="SIKS" style="height: 50px;">
+    <img src="assets/sponsors-logo/siks300.png" alt="SIKS" style="height: 68px;">
   </a>
 </div>
 
