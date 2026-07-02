@@ -217,6 +217,14 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   </a>
 </div>
 
+**🥈 Silver Sponsors**
+
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <a href="https://asci.school/about/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/asci.png" alt="ASCI" style="height: 50px;">
+  </a>
+</div>
+
 **🥇 Gold Sponsors**
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
