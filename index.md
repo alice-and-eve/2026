@@ -19,11 +19,12 @@ Alice and Eve event is inspired by the <a href="https://bcswomenlovelace.bcs.org
 
 The event is held during a single day, and features:
 
-- keynote talks,
-- a poster contest, and
-- an exhibition on women in computing.
+- keynote talks
+- a poster contest
+- an exhibition on women in computing
+- ample networking opportunities
 
-Join us, and participate to our poster contest on the topic of your choice!
+Join us, and participate in our poster contest on the topic of your choice!
 
 ### Date:
 
