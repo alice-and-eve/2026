@@ -224,6 +224,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   <a href="https://www.siks.nl" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/siks300.png" alt="SIKS" style="height: 68px;">
   </a>
+  <a href="https://accss.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/accss.jpg" alt="ACCSS" style="height: 50px;">
+  </a>
 </div>
 
 **🥈 Silver Sponsors**
@@ -237,6 +240,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
 **🥇 Gold Sponsors**
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 2rem; margin-top: 0.5rem; margin-bottom: 1.5rem;">
+  <a href="https://www.afas.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/afas.png" alt="AFAS" style="height: 60px;">
+  </a>
   <a href="https://duckdblabs.com" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/duckdb-labs-horizontal-logo-2025.png" alt="DuckDB Labs" style="height: 60px;">
   </a>
