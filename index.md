@@ -68,7 +68,8 @@ Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target
 
 We are thrilled to announce the Alice & Eve 2026 poster contest with exciting prizes awaiting the winners!
 
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
+We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
+The preferred poster language is English. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
 To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: <a href="https://easychair.org/conferences/?conf=aliceeve2026" target="_blank" rel="noopener noreferrer">https://easychair.org/conferences/?conf=aliceeve2026</a>
 
