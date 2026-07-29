@@ -50,10 +50,10 @@ Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target
 | 09:30 – 10:00 | Registration and Coffee |
 | 10:00 – 10:10 | Opening |
 | 10:10 – 10:40 | Talk on Knowledge Engineering |
-| 10:40 – 11:10 | Talk on Machine Learning |
+| 10:40 – 11:10 | Keynote talk by Pınar Yolum on Machine Learning |
 | 11:10 – 11:30 | ☕ Coffee Break |
-| 11:30 – 12:00 | Talk on Human–Computer Interaction |
-| 12:00 – 12:30 | Talk on Algorithms |
+| 11:30 – 12:00 | Keynote talk by Vanessa Evers on Human–Computer Interaction |
+| 12:00 – 12:30 | Keynote talk by Maria Vlasiou on Algorithms |
 | 12:30 – 14:00 | 🍽 Lunch Break & Exhibition |
 | 14:00 – 14:30 | Sponsor Lightning Talks |
 | 14:30 – 15:00 | Talk on Computer Networks |
@@ -68,7 +68,8 @@ Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target
 
 We are thrilled to announce the Alice & Eve 2026 poster contest with exciting prizes awaiting the winners!
 
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested. We welcome you to reuse any existing/published work or poster, no need to print it again.
+We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
+The preferred poster language is English. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
 To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: <a href="https://easychair.org/conferences/?conf=aliceeve2026" target="_blank" rel="noopener noreferrer">https://easychair.org/conferences/?conf=aliceeve2026</a>
 
@@ -83,13 +84,17 @@ TBD
 
 ## Speakers
 
-We have invited some inspiring women working on the cutting edge of computing. Confirmed keynote speakers include:
+We have invited inspiring women working on the cutting edge of computing to give a keynote on their research topic. Confirmed keynote speakers include:
   
 - **<a href="https://www.uu.nl/medewerkers/PYolumBirbil" target="_blank" rel="noopener noreferrer">Pınar Yolum</a>**, Professor of Trustworthy AI at Utrecht University
   
-  Pınar Yolum is Professor of Trustworthy AI at Utrecht University, where she leads the Responsible AI research group within the Department of Information and Computing Sciences.  Her recent research focuses on human–AI collaboration, with an emphasis on trust, autonomy, and privacy. Pınar serves on the Editorial Boards of Journal of AI Research, Journal of Autonomous Agents and Multiagent Systems, and IEEE Internet Computing.  She is the program leader of the AI Master’s program at Utrecht University, co-founder of the Global Justice Investigations Lab, and an active member of the Hybrid Intelligence Center.   She regularly contributes to activities to promote women participation in computer science.  She is an enthusiastic reader and a restless skier.
+  Pınar Yolum is Professor of Trustworthy AI at Utrecht University, where she leads the Responsible AI research group within the Department of Information and Computing Sciences.  Her recent research focuses on human–AI collaboration, with an emphasis on trust, autonomy, and privacy. Pınar serves on the Editorial Boards of Journal of AI Research, Journal of Autonomous Agents and Multiagent Systems, and IEEE Internet Computing.  She is the program leader of the AI Master’s program at Utrecht University, co-founder of the Global Justice Investigations Lab, and an active member of the Hybrid Intelligence Center. She regularly contributes to activities to promote women participation in computer science. She is an enthusiastic reader and a restless skier.
 
-- **<a href="https://personen.utwente.nl/m.vlasiou" target="_blank" rel="noopener noreferrer">Maria Vlasiou</a>**, Full Professor at the University of Twente, a Research Fellow of the European research institute EURANDOM, and the Director of the Dutch Network on the Mathematics of Operations research, LNMB
+- **<a href="https://www.cwi.nl/en/people/vanessa-evers/" target="_blank" rel="noopener noreferrer">Vanessa Evers</a>**, Director at CWI,  Chief Science Advisor at the Ministry of Education, Science and Culture (OCW), Full professor and Chair of Human Media Interaction at University of Twente
+  
+  Vanessa Evers is the director of CWI, the National Institute of Mathematics and Computer Science in the Netherlands. She is also Chief Science Advisor for the Ministry of Education, Science and Culture (OCW) of the Dutch government. Apart from that, she is a full professor and Chair of Human Media Interaction at the computer science department of the University of Twente in the Netherlands. She is also founder and scientific director of the DesignLab at the University of Twente. Vanessa Evers is a visiting professor of Computer Science at Nanyang technological University in Singapore and was the founding Director of the Institute for Science and Technology for Humanity (2019-2022). Finally, she is a member of the supervisory board of Radboud University in the Netherlands. She is Co-chair of the World Economic Forum's Global Future Council on Physical AI and Autonomous Systems and in the Advisory Board of the WASP-HS Wallenburg foundation, and the Global Learning Council. Her research interests focus on Social Artificial Intelligence and Robotics; the societal impact of AI, autonomous systems and robots; human-robot collaboration as well as cross-cultural aspects of Human Machine Interaction. Vanessa has taught courses on Human Computer Interaction, Computer Mediated Communication, Technology and Teamwork, and Social Robotics at the undergraduate and graduate level, she also taught executive training courses, developed online courses and courses for continuing education.
+
+- **<a href="https://personen.utwente.nl/m.vlasiou" target="_blank" rel="noopener noreferrer">Maria Vlasiou</a>**, Full Professor at the University of Twente, Research Fellow of the European research institute EURANDOM, Director of the Dutch Network on the Mathematics of Operations research, LNMB
   
   Maria Vlasiou's research centres on the performance of stochastic processing interacting networks. She develops mathematical tools in performance evaluation, optimisation, control, and decision making and applies these tools to design new algorithms that can be deployed in data centres, the electricity grid, communication systems, high-tech manufacturing and beyond. Prof. Vlasiou has received the best paper award in ICORES 2013, the Marcel Neuts student paper award in MAM8, the 3rd prize of the 8th conference in Actuarial Science, the 2022 the UPS George D. Smith prize of INFORMS, and the Hypatia chair of the University of Twente. She currently serves as an Associate Editor for IISE Transactions, Mathematical Methods of Operations Research, OR Spectrum, and INFOR.
 
