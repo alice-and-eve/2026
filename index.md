@@ -111,6 +111,56 @@ We have invited inspiring women working on the cutting edge of computing to give
   
   Maria Vlasiou's research centres on the performance of stochastic processing interacting networks. She develops mathematical tools in performance evaluation, optimisation, control, and decision making and applies these tools to design new algorithms that can be deployed in data centres, the electricity grid, communication systems, high-tech manufacturing and beyond. Prof. Vlasiou has received the best paper award in ICORES 2013, the Marcel Neuts student paper award in MAM8, the 3rd prize of the 8th conference in Actuarial Science, the 2022 the UPS George D. Smith prize of INFORMS, and the Hypatia chair of the University of Twente. She currently serves as an Associate Editor for IISE Transactions, Mathematical Methods of Operations Research, OR Spectrum, and INFOR.
 
+## Speakers
+
+We have invited inspiring women working on the cutting edge of computing to give a keynote on their research topic. Confirmed keynote speakers include:
+
+<div class="committee-member">
+  <img src="assets/speaker-pictures/pinar.jpg" alt="Pınar Yolum">
+  <div class="info">
+
+### <a href="https://www.uu.nl/medewerkers/PYolumBirbil" target="_blank" rel="noopener noreferrer">Pınar Yolum</a>
+
+**Professor of Trustworthy AI at Utrecht University**
+
+Pınar Yolum is Professor of Trustworthy AI at Utrecht University, where she leads the Responsible AI research group within the Department of Information and Computing Sciences. Her recent research focuses on human–AI collaboration, with an emphasis on trust, autonomy, and privacy. Pınar serves on the Editorial Boards of Journal of AI Research, Journal of Autonomous Agents and Multiagent Systems, and IEEE Internet Computing. She is the program leader of the AI Master’s program at Utrecht University, co-founder of the Global Justice Investigations Lab, and an active member of the Hybrid Intelligence Center. She regularly contributes to activities to promote women participation in computer science. She is an enthusiastic reader and a restless skier.
+
+  </div>
+</div>
+
+<div class="committee-member">
+  <img src="assets/speaker-pictures/vanessa.jpg" alt="Vanessa Evers">
+  <div class="info">
+
+### <a href="https://www.cwi.nl/en/people/vanessa-evers/" target="_blank" rel="noopener noreferrer">Vanessa Evers</a>
+
+**Director at CWI, Chief Science Advisor at the Ministry of Education, Science and Culture (OCW), Full Professor and Chair of Human Media Interaction at University of Twente**
+
+Vanessa Evers is the director of CWI, the National Institute of Mathematics and Computer Science in the Netherlands. She is also Chief Science Advisor for the Ministry of Education, Science and Culture (OCW) of the Dutch government. Apart from that, she is a full professor and Chair of Human Media Interaction at the computer science department of the University of Twente in the Netherlands. She is also founder and scientific director of the DesignLab at the University of Twente.
+
+Vanessa Evers is a visiting professor of Computer Science at Nanyang Technological University in Singapore and was the founding Director of the Institute for Science and Technology for Humanity (2019–2022). Finally, she is a member of the supervisory board of Radboud University in the Netherlands. She is Co-chair of the World Economic Forum's Global Future Council on Physical AI and Autonomous Systems and in the Advisory Board of the WASP-HS Wallenburg foundation, and the Global Learning Council.
+
+Her research interests focus on Social Artificial Intelligence and Robotics; the societal impact of AI, autonomous systems and robots; human-robot collaboration as well as cross-cultural aspects of Human Machine Interaction. Vanessa has taught courses on Human Computer Interaction, Computer Mediated Communication, Technology and Teamwork, and Social Robotics at the undergraduate and graduate level, she also taught executive training courses, developed online courses and courses for continuing education.
+
+  </div>
+</div>
+
+<div class="committee-member">
+  <img src="assets/speaker-pictures/maria.jpg" alt="Maria Vlasiou">
+  <div class="info">
+
+### <a href="https://personen.utwente.nl/m.vlasiou" target="_blank" rel="noopener noreferrer">Maria Vlasiou</a>
+
+**Full Professor at the University of Twente, Research Fellow of the European research institute EURANDOM, Director of the Dutch Network on the Mathematics of Operations Research, LNMB**
+
+Maria Vlasiou's research centres on the performance of stochastic processing interacting networks. She develops mathematical tools in performance evaluation, optimisation, control, and decision making and applies these tools to design new algorithms that can be deployed in data centres, the electricity grid, communication systems, high-tech manufacturing and beyond.
+
+Prof. Vlasiou has received the best paper award in ICORES 2013, the Marcel Neuts student paper award in MAM8, the 3rd prize of the 8th conference in Actuarial Science, the 2022 UPS George D. Smith prize of INFORMS, and the Hypatia chair of the University of Twente. She currently serves as an Associate Editor for IISE Transactions, Mathematical Methods of Operations Research, OR Spectrum, and INFOR.
+
+  </div>
+</div>
+
+
 ## Organizing Committee
 
 <div class="committee-grid">
