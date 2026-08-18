@@ -43,6 +43,8 @@ The workshop will be held at Neude11 Utrecht Public Library in Utrecht.
 
 Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target="_blank" rel="noopener noreferrer">Alice & Eve 2026 Registration Form</a>
 
+Please note the registration deadline is **11 October**, so we can accurately plan catering.
+
 ## Program
 
 | Time | Session |
@@ -80,7 +82,18 @@ If you have any questions, don't hesitate to get in touch: <a href="mailto:alice
 
 ## Exhibition
 
-TBD
+In addition to the keynote talks and poster sessions, a dedicated exhibition will run throughout the event, featuring thirty women in computing and highlighting their most important contributions. <a href="https://www.aliceandeve.nl/home" target="_blank" rel="noopener noreferrer">Learn more here</a>.
+
+Some highlights of the exhibition:
+
+- <a href="https://www.aliceandeve.nl/exhibition/ada-lovelace" target="_blank" rel="noopener noreferrer">Ada Lovelace</a> who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- <a href="https://www.aliceandeve.nl/exhibition/grace-hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a> who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
+- <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="noopener noreferrer">The Bletchley Park Codebreakers</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
+
+More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>. 
+
+Fantastic <a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopener noreferrer">coding games</a> and <a href="https://www.aliceandeve.nl/gallery" target="_blank" rel="noopener noreferrer">media</a> - which include videos and podcasts related to women in computing - are also offered.
+
 
 ## Speakers
 
@@ -97,10 +110,6 @@ We have invited inspiring women working on the cutting edge of computing to give
 - **<a href="https://personen.utwente.nl/m.vlasiou" target="_blank" rel="noopener noreferrer">Maria Vlasiou</a>**, Full Professor at the University of Twente, Research Fellow of the European research institute EURANDOM, Director of the Dutch Network on the Mathematics of Operations research, LNMB
   
   Maria Vlasiou's research centres on the performance of stochastic processing interacting networks. She develops mathematical tools in performance evaluation, optimisation, control, and decision making and applies these tools to design new algorithms that can be deployed in data centres, the electricity grid, communication systems, high-tech manufacturing and beyond. Prof. Vlasiou has received the best paper award in ICORES 2013, the Marcel Neuts student paper award in MAM8, the 3rd prize of the 8th conference in Actuarial Science, the 2022 the UPS George D. Smith prize of INFORMS, and the Hypatia chair of the University of Twente. She currently serves as an Associate Editor for IISE Transactions, Mathematical Methods of Operations Research, OR Spectrum, and INFOR.
-
-## Jobs Board
-
-TBD
 
 ## Organizing Committee
 
@@ -285,4 +294,10 @@ Utrecht is one of the Netherlands' oldest and most vibrant cities, located right
 
 ## Accommodation
 
-TBD
+Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
+
+Utrecht University offers **discounts for students** at [Bunk Utrecht](https://wearebunk.com/utrecht/) and [Stayokay Hostel Utrecht Centrum](https://www.stayokay.com/nl/hostel/utrecht-centrum), both within walking distance of the Alice & Eve venue. 
+Please find the discount codes on [this website](https://www.uu.nl/en/education/welcome-to-utrecht/before-arrival/arrange-housing/temporary-accommodation).
+
+For non‑student attendees, a range of nearby hotels is available for accommodation.
+
