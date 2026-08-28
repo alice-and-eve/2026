@@ -70,7 +70,7 @@ Please note the registration deadline is **11 October**, so we can accuratel
 
 We are thrilled to announce the Alice & Eve 2026 poster contest with exciting prizes awaiting the winners!
 
-We invite all female students (Bachelor/Master/PhD) and early career researchers of computing and related subjects (in the broadest sense) to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
+We invite women and other people of marginalized genders who are Bachelor’s, Master’s, or PhD students, or early-career researchers to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
 The preferred poster language is English. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
 To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: <a href="https://easychair.org/conferences/?conf=aliceeve2026" target="_blank" rel="noopener noreferrer">https://easychair.org/conferences/?conf=aliceeve2026</a>
@@ -90,7 +90,7 @@ Some highlights of the exhibition:
 - <a href="https://www.aliceandeve.nl/exhibition/grace-hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a> who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
 - <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="noopener noreferrer">The Bletchley Park Codebreakers</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
-More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>. 
+More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>.
 
 Fantastic <a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopener noreferrer">coding games</a> and <a href="https://www.aliceandeve.nl/gallery" target="_blank" rel="noopener noreferrer">media</a> - which include videos and podcasts related to women in computing - are also offered.
 
@@ -316,8 +316,7 @@ Utrecht is one of the Netherlands' oldest and most vibrant cities, located right
 
 Although the Alice & Eve event is a one-day program, we warmly encourage you to consider extending your stay to enjoy the city, connect with fellow participants, and make the most of your visit in a relaxed and inspiring atmosphere.
 
-Utrecht University offers **discounts for students** at [Bunk Utrecht](https://wearebunk.com/utrecht/) and [Stayokay Hostel Utrecht Centrum](https://www.stayokay.com/nl/hostel/utrecht-centrum), both within walking distance of the Alice & Eve venue. 
+Utrecht University offers **discounts for students** at [Bunk Utrecht](https://wearebunk.com/utrecht/) and [Stayokay Hostel Utrecht Centrum](https://www.stayokay.com/nl/hostel/utrecht-centrum), both within walking distance of the Alice & Eve venue.
 Please find the discount codes on [this website](https://www.uu.nl/en/education/welcome-to-utrecht/before-arrival/arrange-housing/temporary-accommodation).
 
 For non‑student attendees, a range of nearby hotels is available for accommodation.
-
