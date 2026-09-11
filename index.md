@@ -47,24 +47,102 @@ Please note the registration deadline is **11 October**, so we can accuratel
 
 ## Program
 
-| Time | Session |
-|------|---------|
-| 09:30 – 10:00 | Registration and Coffee |
-| 10:00 – 10:10 | Opening |
-| 10:10 – 10:40 | Talk on Knowledge Engineering |
-| 10:40 – 11:10 | Keynote talk by Pınar Yolum on Machine Learning |
-| 11:10 – 11:30 | ☕ Coffee Break |
-| 11:30 – 12:00 | Keynote talk by Vanessa Evers on Human–Computer Interaction |
-| 12:00 – 12:30 | Keynote talk by Maria Vlasiou on Algorithms |
-| 12:30 – 14:00 | 🍽 Lunch Break & Exhibition |
-| 14:00 – 14:30 | Sponsor Lightning Talks |
-| 14:30 – 15:00 | Talk on Computer Networks |
-| 15:00 – 15:30 | ☕ Coffee Break |
-| 15:30 – 16:00 | Talk on Security |
-| 16:00 – 16:15 | Poster Awards |
-| 16:15 – 17:00 | Panel on "Resilience in Computing" |
-| 17:00 – 17:10 | Closing |
-| 17:10 – 18:00 | 🥂 Drinks |
+<table>
+<thead>
+<tr>
+<th>Time</th>
+<th>Session</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>09:30 – 10:00</td>
+<td>Registration and Coffee</td>
+</tr>
+<tr>
+<td>10:00 – 10:10</td>
+<td>Opening</td>
+</tr>
+<tr>
+<td>10:10 – 10:40</td>
+<td>Keynote talk by Laura Hollink on <b>Bias in Knowledge Graphs:</b>
+<p>Knowledge graphs are structured representations of real-world entities and their relationships, forming the backbone of a wide range of applications — from powering search interfaces and recommendation systems to serving as training data for large language models. Yet despite their growing influence, bias in knowledge graphs remains a largely overlooked problem compared to the broader discourse on bias in AI.
+          Bias enters knowledge graphs inevitably: they are constructed by humans, or derived from human-generated data, and thus inherit the skewed perspectives, gaps, and prejudices embedded in their sources. This talk offers a structured overview of bias in knowledge graphs across two dimensions: quantitative and qualitative. Quantitative bias concerns disparities in representation, such as unequal numbers of nodes or edges associated with different groups of people. Such imbalances carry real consequences: downstream applications like recommender systems and entity alignment tasks have been shown to systematically favor entities with richer data, amplifying existing inequalities. Qualitative bias manifests in the language used to describe people and cultures within a graph's literal values. Drawing on domain expertise from the cultural heritage sector, where questions of inclusion and fair representation have received sustained attention, we demonstrate how biased terminology can be identified in knowledge graph literals. The talk closes with an overview of mitigation efforts by knowledge graph creators, offering both practical tools and a call to action for the field.
+
+          </p>
+</td>
+</tr>
+<tr>
+<td>10:40 – 11:10</td>
+<td>Keynote talk by Pınar Yolum on <b>Human–AI Collaboration Beyond Prediction:</b>
+<p>As humans increasingly collaborate with AI agents, effective collaboration depends on combining complementary strengths rather than replacing human judgment. Effective collaboration requires AI systems to model and adapt to human preferences, social norms, values, and context, and to exhibit capabilities such as empathy, self-reflection, and social awareness in ways that support interaction. This raises fundamental questions: how should we represent these capabilities computationally, how can they be learned from data and interaction, and how should they be evaluated? Privacy provides a particularly rich domain for exploring these challenges. I will present our work on privacy assistants that reason about norms, contexts, and values to help people make informed decisions in complex data-sharing environments.
+</p>
+</td>
+</tr>
+<tr>
+<td>11:10 – 11:30</td>
+<td>☕ Coffee Break</td>
+</tr>
+<tr>
+<td>11:30 – 12:00</td>
+<td>Keynote talk by Vanessa Evers on <b>Deploying Physical AI in Society:</b>
+<p>In futurist research, we envision new (Physical) AI possibilities and think through the consequences of these (im)possible innovations for people and their impact on society. In imagining a future symbiotic society with robots and people and in developing Social AI and Social robotics solutions, we have been imagining what future physical AI services may look like, how to innovate technologically to make the solution come true and study the social and societal consequences. In this presentation I will discuss projects in which we created robotic technology; explain how we went about designing integrated AI driven robots that were envisioned to operate in everyday environments and how we studied the impact of these controversial technologies on people’s lives. Also, there will be a lot of interesting videos to watch as we learned to make robots for people through trial and error.
+</p>
+</td>
+</tr>
+<tr>
+<td>12:00 – 12:30</td>
+<td>Keynote talk by Maria Vlasiou on <b>Stochastic Processes on Interacting Networks:</b>
+<p>Many systems in science and engineering can be viewed as collections of stochastic processes that interact through dynamic networks. Classical approaches typically assume fixed structures or independent components, but contemporary systems—ranging from communication platforms and service ecosystems to mobility networks and biological systems—evolve while operating. Their behaviour emerges from feedback between random flows, changing topologies, and state dependent interactions. This lecture surveys recent developments in stochastic processes on interacting networks. I will discuss models that capture how randomness, dependence, and network evolution shape collective dynamics, highlighting tractable results on stability, scaling limits, and approximation methods.
+</p>
+</td>
+</tr>
+<tr>
+<td>12:30 – 13:45</td>
+<td>🍽 Lunch Break &amp; Exhibition</td>
+</tr>
+<tr>
+<td>13:45 – 14:30</td>
+<td>Sponsor Lightning Talks</td>
+</tr>
+<tr>
+<td>14:30 – 15:00</td>
+<td>Keynote talk by Özlem Durmaz Incel on <b>Pervasive Sensing Systems at the Edge:</b>
+<p>Pervasive systems consist of networks of sensing, computing, and reasoning components embedded so seamlessly into their environment that they become unnoticed. These form a kind of digital skin, allowing us to perceive the world through numerous small, imperfect, interconnected devices. In this talk, I will outline the research conducted by the Pervasive Systems group at the University of Twente, using examples such as earbuds capable of detecting distraction or recognizing silent speech, bicycles transformed into mobile edge nodes for safer cycling, and sensor networks deployed in the field for biodiversity monitoring. Common challenges across these projects include scaling sensing efforts, running intelligent processing on low-power devices, and building reliable systems from unreliable components.
+</p>
+</td>
+</tr>
+<tr>
+<td>15:00 – 15:30</td>
+<td>☕ Coffee Break</td>
+</tr>
+<tr>
+<td>15:30 – 16:00</td>
+<td>Keynote talk by Christine Utz on <b>Apps, AI, and Your Data: How Much Do We Really Know?:</b>
+<p>AI is no longer confined to chatbots and AI-native applications but increasingly embedded in the everyday apps we use, from online shops to video players. But how transparent are companies about these capabilities and the role our data play in developing AI?
+          In this talk, I'll share findings from a current study of how popular apps communicate their use of AI and AI-related data practices, what choices they give users, and how easy those choices are to find and exercise. We'll also look at the role of deceptive design and what it can mean for privacy, transparency, and user control. The talk presents some of the different approaches apps take - and some of the unexpected ways AI-related data practices are communicated to users.
+</p>
+</td>
+</tr>
+<tr>
+<td>16:00 – 16:15</td>
+<td>Poster Awards</td>
+</tr>
+<tr>
+<td>16:15 – 17:00</td>
+<td>Panel on “Resilience in Computing”</td>
+</tr>
+<tr>
+<td>17:00 – 17:10</td>
+<td>Closing</td>
+</tr>
+<tr>
+<td>17:10 – 18:00</td>
+<td>🥂 Drinks</td>
+</tr>
+</tbody>
+</table>
+
 
 ## Poster Contest
 
@@ -102,6 +180,15 @@ Fantastic <a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopen
 We have invited inspiring women working on the cutting edge of computing to give a keynote on their research topic. Confirmed keynote speakers include:
 
 <div class="committee-member speaker">
+  <img src="assets/speaker-pictures/laura.jpeg" alt="Laura Hollink">
+  <div class="speaker-info">
+    <h3><a href="https://www.cwi.nl/en/people/laura-hollink/" target="_blank" rel="noopener noreferrer">Laura Hollink</a></h3>
+    <p><strong>Professor of Responsible AI in Culture &amp; Media at Utrecht University, researcher and management team member at CWI</strong></p>
+    <p>Laura Hollink is Professor of 'Responsible AI in Culture &amp; Media' at Utrecht University. She is also a researcher and member of the management team at CWI, the Dutch national research centre for Mathematics and Computer Science. She investigates bias, diversity and inclusivity in AI systems that are used in the culture and media sectors, such as recommender systems, LLMs and knowledge graphs. To ensure societal relevance of her work, she maintains close, long-term collaborations with societal partners in two interdisciplinary labs: she is co-director of the Cultural AI Lab, and co-applicant of the NWA funded ELSA Lab on AI, Media and Democracy.</p>
+  </div>
+</div>
+
+<div class="committee-member speaker">
   <img src="assets/speaker-pictures/pinar.jpg" alt="Pınar Yolum">
   <div class="speaker-info">
     <h3><a href="https://www.uu.nl/medewerkers/PYolumBirbil" target="_blank" rel="noopener noreferrer">Pınar Yolum</a></h3>
@@ -129,6 +216,25 @@ We have invited inspiring women working on the cutting edge of computing to give
 </div>
 
 
+
+
+<div class="committee-member speaker">
+  <img src="assets/speaker-pictures/ozlem.png" alt="Özlem Durmaz Incel">
+  <div class="speaker-info">
+    <h3><a href="https://people.utwente.nl/ozlem.durmaz" target="_blank" rel="noopener noreferrer">Özlem Durmaz Incel</a></h3>
+    <p><strong>Senior Associate Professor and Chair of the Pervasive Systems research group at the University of Twente</strong></p>
+    <p>Özlem Durmaz Incel is a Senior Associate Professor and Chair of the Pervasive Systems research group at the University of Twente, where she leads a team of over thirty researchers working across the end-to-end IoT stack. She obtained her PhD in Computer Science at the University of Twente. Before returning to Twente, she was a faculty member at Galatasaray University and then at Boğaziçi University in Istanbul. With more than fifteen years of experience as a systems builder, her research bridges physical sensing and intelligent action: resource-efficient sensing, Edge AI, and multimodal sensing, spanning from highly constrained earables to large-scale environmental networks. Her interests include wearable computing, human activity and well-being recognition, behavioural biometrics, and the Internet of Things. She serves as Associate Editor for the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (PACM IMWUT) and on the editorial board of IEEE Internet Computing.</p>
+  </div>
+</div>
+
+<div class="committee-member speaker">
+  <img src="assets/speaker-pictures/christine.jpg" alt="Christine Utz">
+  <div class="speaker-info">
+    <h3><a href="https://www.ru.nl/en/people/utz-c" target="_blank" rel="noopener noreferrer">Christine Utz</a></h3>
+    <p><strong>Assistant Professor in the Digital Security group at Radboud University</strong></p>
+    <p>Christine Utz is an assistant professor in the Digital Security group at Radboud University. With a background in computer science and law, she conducts empirical research that studies privacy and digital rights from both technical and user-centered perspectives.</p>
+  </div>
+</div>
 
 
 ## Organizing Committee
