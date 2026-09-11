@@ -401,6 +401,9 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
   <a href="https://www.cwi.nl" target="_blank" rel="noopener noreferrer">
     <img src="assets/sponsors-logo/cwi.svg" alt="CWI" style="height: 60px;">
   </a>
+  <a href="https://www.prorail.nl" target="_blank" rel="noopener noreferrer">
+    <img src="assets/sponsors-logo/prorail.png" alt="ProRail" style="height: 60px;">
+  </a>
 </div>
 
 
