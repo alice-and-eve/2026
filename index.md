@@ -13,8 +13,8 @@ Alice & Eve aims to bring together talents in the field of computing. The sevent
 Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/) that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/), [2021](https://aliceandeve.cs.ru.nl/), [2022](https://alice-and-eve.github.io/2022/), [2023](https://alice-and-eve.github.io/2023/) and [2024](https://alice-and-eve.github.io/2024/).-->
 
 
-Alice and Eve event is inspired by the <a href="https://bcswomenlovelace.bcs.org/" target="_blank" rel="noopener noreferrer">BCS Lovelace Colloquium</a> that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/" target="_blank" rel="noopener noreferrer">2020</a>, <a href="https://aliceandeve.cs.ru.nl/" target="_blank" rel="noopener noreferrer">2021</a>, <a href="https://alice-and-eve.github.io/2022/" target="_blank" rel="noopener noreferrer">2022</a>
-, <a href="https://alice-and-eve.github.io/2023/" target="_blank" rel="noopener noreferrer">2023</a>, <a href="https://alice-and-eve.github.io/2024/" target="_blank" rel="noopener noreferrer">2024</a>, and <a href="https://alice-and-eve.github.io/2025/" target="_blank" rel="noopener noreferrer">2025</a>.
+Alice and Eve event is inspired by the [BCS Lovelace Colloquium](https://bcswomenlovelace.bcs.org/){:target="_blank" rel="noopener noreferrer"} that started in 2008. For more details about earlier editions of Alice & Eve, see the websites of [2020](https://fmt.ewi.utwente.nl/events/aliceandeve2020/){:target="_blank" rel="noopener noreferrer"}, [2021](https://aliceandeve.cs.ru.nl/){:target="_blank" rel="noopener noreferrer"}, [2022](https://alice-and-eve.github.io/2022/){:target="_blank" rel="noopener noreferrer"}
+, [2023](https://alice-and-eve.github.io/2023/){:target="_blank" rel="noopener noreferrer"}, [2024](https://alice-and-eve.github.io/2024/){:target="_blank" rel="noopener noreferrer"}, and [2025](https://alice-and-eve.github.io/2025/){:target="_blank" rel="noopener noreferrer"}.
 
 
 The event is held during a single day, and features:
@@ -41,7 +41,7 @@ The workshop will be held at Neude11 Utrecht Public Library in Utrecht.
 
 ### Registration:
 
-Register here: <a href="https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4" target="_blank" rel="noopener noreferrer">Alice & Eve 2026 Registration Form</a>
+Register here: [Alice & Eve 2026 Registration Form](https://survey.uu.nl/jfe/form/SV_5hTToBoMnqdtpZ4){:target="_blank" rel="noopener noreferrer"}
 
 Please note the registration deadline is **11 October**, so we can accurately plan catering.
 
@@ -103,7 +103,12 @@ Please note the registration deadline is **11 October**, so we can accuratel
 </tr>
 <tr>
 <td>13:45 – 14:30</td>
-<td>Sponsor Lightning Talks</td>
+<td>Sponsor Lightning Talks<br>
+Nantia Markynioti from <b>DuckDB Labs</b> on "DuckDB: From academic research to AWS"<br>
+Anna Hu from <b>AFAS</b> on "My journey from Graduation to the AI Team at AFAS Software"<br>
+Garazi Muguruza Lasa from <b>SURF</b> on "Quantum technologies at SURF"<br>
+Lynda Hardman from <b>CWI</b> on "Why would I want to study Computer Science?"
+</td>
 </tr>
 <tr>
 <td>14:30 – 15:00</td>
@@ -151,26 +156,26 @@ We are thrilled to announce the Alice & Eve 2026 poster contest with exciting pr
 We invite women and other people of marginalized genders who are Bachelor’s, Master’s, or PhD students, or early-career researchers to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
 The preferred poster language is English. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
-To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: <a href="https://easychair.org/conferences/?conf=aliceeve2026" target="_blank" rel="noopener noreferrer">https://easychair.org/conferences/?conf=aliceeve2026</a>
+To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: [https://easychair.org/conferences/?conf=aliceeve2026](https://easychair.org/conferences/?conf=aliceeve2026){:target="_blank" rel="noopener noreferrer"}
 
 Notifications will be sent out by **25 September 2026**. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Utrecht to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
 
-If you have any questions, don't hesitate to get in touch: <a href="mailto:alice.eve@uu.nl">alice.eve@uu.nl</a>. We look forward to seeing you in Utrecht!
+If you have any questions, don't hesitate to get in touch: [alice.eve@uu.nl](mailto:alice.eve@uu.nl). We look forward to seeing you in Utrecht!
 
 
 ## Exhibition
 
-In addition to the keynote talks and poster sessions, a dedicated exhibition will run throughout the event, featuring thirty women in computing and highlighting their most important contributions. <a href="https://www.aliceandeve.nl/home" target="_blank" rel="noopener noreferrer">Learn more here</a>.
+In addition to the keynote talks and poster sessions, a dedicated exhibition will run throughout the event, featuring thirty women in computing and highlighting their most important contributions. [Learn more here](https://www.aliceandeve.nl/home){:target="_blank" rel="noopener noreferrer"}.
 
 Some highlights of the exhibition:
 
-- <a href="https://www.aliceandeve.nl/exhibition/ada-lovelace" target="_blank" rel="noopener noreferrer">Ada Lovelace</a> who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
-- <a href="https://www.aliceandeve.nl/exhibition/grace-hopper" target="_blank" rel="noopener noreferrer">Grace Hopper</a> who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
-- <a href="https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-" target="_blank" rel="noopener noreferrer">The Bletchley Park Codebreakers</a> included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
+- [Ada Lovelace](https://www.aliceandeve.nl/exhibition/ada-lovelace){:target="_blank" rel="noopener noreferrer"} who is known for her work on the sign of the ‘Analytics Machine’, the first ever general-purpose computer, and the first published algorithm;
+- [Grace Hopper](https://www.aliceandeve.nl/exhibition/grace-hopper){:target="_blank" rel="noopener noreferrer"} who created the world’s first workable compiler and the Grace Hopper Celebration of Women in Computing, an annual conference;
+- [The Bletchley Park Codebreakers](https://www.aliceandeve.nl/exhibition/the-bletchley-park-codebreakers-){:target="_blank" rel="noopener noreferrer"} included approximately 8,000 women, known as the "Bletchleyettes," whose crucial code-breaking efforts during World War II, including operating cryptographic machinery and breaking complex codes, remain largely unrecognized due to the enduring secrecy of their work.
 
-More information can be found at the <a href="https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf" target="_blank" rel="noopener noreferrer">exhibition booklet</a>.
+More information can be found at the [exhibition booklet](https://fmt.ewi.utwente.nl/events/aliceandeve2020/booklet-13-01-2020.pdf){:target="_blank" rel="noopener noreferrer"}.
 
-Fantastic <a href="https://www.aliceandeve.nl/games" target="_blank" rel="noopener noreferrer">coding games</a> and <a href="https://www.aliceandeve.nl/gallery" target="_blank" rel="noopener noreferrer">media</a> - which include videos and podcasts related to women in computing - are also offered.
+Fantastic [coding games](https://www.aliceandeve.nl/games){:target="_blank" rel="noopener noreferrer"} and [media](https://www.aliceandeve.nl/gallery){:target="_blank" rel="noopener noreferrer"} - which include videos and podcasts related to women in computing - are also offered.
 
 
 
@@ -345,12 +350,12 @@ Ilaria Battiston (either in person or via [email](mailto:Ilaria Battiston <ilari
 This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy).
 -->
 
-This Code of Conduct was adapted from the <a href="https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy" target="_blank" rel="noopener noreferrer">Geek Feminism Wiki anti-harassment policy</a>.
+This Code of Conduct was adapted from the [Geek Feminism Wiki anti-harassment policy](https://geekfeminism.fandom.com/wiki/Conference_anti-harassment/Policy){:target="_blank" rel="noopener noreferrer"}.
 
 
 ## Sponsors
 
-Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please contact our sponsor chair at <a href="mailto:s.s.kerkhove@uu.nl">s.s.kerkhove@uu.nl</a>.
+Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please contact our sponsor chair at [s.s.kerkhove@uu.nl](mailto:s.s.kerkhove@uu.nl).
 
 **🥉 Bronze Sponsors**
 
@@ -413,7 +418,7 @@ Interested in sponsoring Alice & Eve 2026? We'd love to hear from you — please
 
 ## Contact Us
 
-For any questions, feel free to reach out to us at <a href="mailto:alice.eve@uu.nl">alice.eve@uu.nl</a>.
+For any questions, feel free to reach out to us at [alice.eve@uu.nl](mailto:alice.eve@uu.nl).
 
 ## About Utrecht
 
