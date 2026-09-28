@@ -161,12 +161,145 @@ Lynda Hardman from <b>CWI</b> on "Why would I want to study Computer Science?"
 
 We are thrilled to announce the Alice & Eve 2026 poster contest with exciting prizes awaiting the winners!
 
+Please find the list of accepted posters below:
+
+<table>
+  <thead>
+    <tr>
+      <th>Author(s)</th>
+      <th>Title</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ahdiyeh Alipour, Kousar Aslam, Tilo Hartmann, Roel Dobbe and Maryam Alimardani</td>
+      <td>Designing Inclusive and Responsible AI Agents for Diverse User Groups</td>
+    </tr>
+    <tr>
+      <td>Adriana Neves</td>
+      <td>A Device-Generalizable Approach to Automated Eye Image Analysis</td>
+    </tr>
+    <tr>
+      <td>Anja Helena Margaretha Jager</td>
+      <td>Fair Division under Uncertainty</td>
+    </tr>
+    <tr>
+      <td>Brigitta Varga</td>
+      <td>pip install refs-mcc: Out-of-the-Box Feature Selection for High-Dimensional, Low-Sample-Size Omics Data</td>
+    </tr>
+    <tr>
+      <td>Cheryl Andrea Fernando</td>
+      <td>When Alice blocked Eve... Wait, how did you know?</td>
+    </tr>
+    <tr>
+      <td>Cheryl Andrea Fernando</td>
+      <td>Traffic at 3am?</td>
+    </tr>
+    <tr>
+      <td>Cyrine Fekih, Dennis Soemers, Ashish Sai and Adriana Iamnitchi</td>
+      <td>Learning Insider-Threat Intervention Policies from Offline Logs</td>
+    </tr>
+    <tr>
+      <td>Francisca Pessanha</td>
+      <td>Emotion through Breath in the VO-ACTUP dataset</td>
+    </tr>
+    <tr>
+      <td>Heleen Kerstholt, Catarina Marques Santos and Ioanna Lykourentzou</td>
+      <td>Collaborating with GenAI in teams: the relation of critical thinking, GenAI usage and team dynamics</td>
+    </tr>
+    <tr>
+      <td>Justine Poon and Malou Van der Velde</td>
+      <td>"Nailing" Real-World AI: Smartphone Health Screening Beyond the Lab</td>
+    </tr>
+    <tr>
+      <td>Kaouther Mouheb</td>
+      <td>Do Medical AI Models See African Brains Fairly?</td>
+    </tr>
+    <tr>
+      <td>Laura van der Lubbe and Sylvia van Borkulo</td>
+      <td>Digital platforms for acessible K-12 computer science</td>
+    </tr>
+    <tr>
+      <td>Linde Huijben and L.L. Sharon Ong</td>
+      <td>Comparing the Robustness of YOLO-Based Architectures for Detecting Personal Protective Equipment (PPE)</td>
+    </tr>
+    <tr>
+      <td>Lin Wouters, Johannes Textor and Inge Wortel</td>
+      <td>Fitting fast, but not furiously: speeding up parameter fitting in stochastic simulators using variance reduction</td>
+    </tr>
+    <tr>
+      <td>Mae Sosto, Laura Hollink and Davide Ceolin</td>
+      <td>Rainbow Meter: Evaluating Factual Accuracy and Stance in LLMs on LGBTI Rights Across Languages and Countries</td>
+    </tr>
+    <tr>
+      <td>Mary Chris Go, Daniël M Pelt, Anirudh Kohli, Philip W Withers and K Joost Batenburg</td>
+      <td>Fibre phantom generation using FibreSimulator: an open-source Python tool</td>
+    </tr>
+    <tr>
+      <td>Martina Dossi, Shivam Agarwal, Madhav Poddar, Fabian Beck and Angelos Chatzimparmpas</td>
+      <td>OrCaPCP: Overlapping Categories Parallel Coordinates Plots</td>
+    </tr>
+    <tr>
+      <td>Martina Tébar</td>
+      <td>Integrating Holder-Binding into an Identity Wallet with Facial Verification and Liveness Detection</td>
+    </tr>
+    <tr>
+      <td>Pien Rooijendijk</td>
+      <td>Who Said CVE? How Vulnerability Identifiers Are Mentioned by Humans, Bots, and Agents in Pull Requests</td>
+    </tr>
+    <tr>
+      <td>Rosie Zheng, Herke van Hoof and Maryam Alimardani</td>
+      <td>Improving Human-Robot Collaboration Using Brain-Computer Interfaces: A Systematic Review</td>
+    </tr>
+    <tr>
+      <td>Rui Li</td>
+      <td>Evaluating Explainable Clustering Methods for Android Malware Family Attribution</td>
+    </tr>
+    <tr>
+      <td>Ru Dahm</td>
+      <td>Femicide in Dutch news articles: a computational analysis on historical corpora</td>
+    </tr>
+    <tr>
+      <td>Sagar Simha, Juliette Ortholand, Georgios Mavrakis, Dave Dongelmans, Jessica Workum, Olivier Thijssens, Ameen Abu-Hanna and Giovanni Cinà</td>
+      <td>Comparing Treatment Discontinuation Strategies When Covariate Monitoring Stops</td>
+    </tr>
+    <tr>
+      <td>Shuang Sun and Olga Gadyatskaya</td>
+      <td>A Study of Cursorules Files in GitHub Open Source Projects</td>
+    </tr>
+    <tr>
+      <td>Siân Brooke and Rachna Mallara</td>
+      <td>Queer and Feminist Informatics: Building a Network at the University of Amsterdam</td>
+    </tr>
+    <tr>
+      <td>Spriha Joshi, Monica Salvioli, Frank Thuijsman and Anna Wilbik</td>
+      <td>From Dilemma to Trilemma: Characterizing Robustness of the Secrecy–Efficiency Framework Under Adversarial Disruption</td>
+    </tr>
+    <tr>
+      <td>Spriha Joshi and Adriana Iamnitchi</td>
+      <td>Mapping Money Mule Recruitment on TikTok</td>
+    </tr>
+    <tr>
+      <td>Veerle van den Hurk, Marjan van den Akker, Egon L. van den Broek and Erwin Abbink</td>
+      <td>Human centered rostering for railway crew</td>
+    </tr>
+    <tr>
+      <td>Xutong Liu</td>
+      <td>CAST: An Interpretable Evidence-Based Confidence Estimation Tool for RAG with Human-in-the-Loop Verification</td>
+    </tr>
+    <tr>
+      <td>Yizhu Zhang</td>
+      <td>Surgical Phase Recognition in Complex Scenarios: TME Dataset and Transformer-based Multi-scale Spatio-temporal Attention Model</td>
+    </tr>
+  </tbody>
+</table>
+
 We invite women and other people of marginalized genders who are Bachelor’s, Master’s, or PhD students, or early-career researchers to submit a poster. Your poster can be on any computing topic you like: from social networking to quantum computing and from medical image processing to formal verification. If it involves computers, we are interested.
 The preferred poster language is English. We welcome you to reuse any existing/published work or poster, no need to print it again.
 
-To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: [https://easychair.org/conferences/?conf=aliceeve2026](https://easychair.org/conferences/?conf=aliceeve2026){:target="_blank" rel="noopener noreferrer"}
+**[Please note submission has been closed]** To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: [https://easychair.org/conferences/?conf=aliceeve2026](https://easychair.org/conferences/?conf=aliceeve2026){:target="_blank" rel="noopener noreferrer"}
 
-Notifications will be sent out by **25 September 2026**. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Utrecht to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
+Notifications were sent out on **28 September 2026**. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Utrecht to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
 
 If you have any questions, don't hesitate to get in touch: [alice.eve@uu.nl](mailto:alice.eve@uu.nl). We look forward to seeing you in Utrecht!
 
