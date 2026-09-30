@@ -215,6 +215,10 @@ Please find the list of accepted posters below:
       <td>Kaouther Mouheb</td>
       <td>Do Medical AI Models See African Brains Fairly?</td>
     </tr>
+   <tr>
+     <td>Ke-Jou Hsu </td>
+     <td>Better Know Your Network: Efficient Network Observability in Mobile-Edge Use Cases</td>
+    </tr>
     <tr>
       <td>Laura van der Lubbe and Sylvia van Borkulo</td>
       <td>Digital platforms for acessible K-12 computer science</td>
