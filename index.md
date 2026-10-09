@@ -106,13 +106,8 @@ Please note the registration deadline is **11 October**, so we can accuratel
 </td>
 </tr>
 <tr>
-<td>12:30 – 13:00</td>
-<td>🍽 Lunch Break &amp; Exhibition</td>
-</tr>
-<tr>
-<tr>
-<td>13:00 – 13:45</td>
-<td>🍽 Lunch Break &amp; Posters</td>
+<td>12:30 – 13:45</td>
+<td>🍽 Lunch Break &amp; Exhibition (&amp; Posters from 13:00 onwards)</td>
 </tr>
 <tr>
 <td>13:45 – 14:30</td>
