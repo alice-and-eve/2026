@@ -303,7 +303,7 @@ The preferred poster language is English. We welcome you to reuse any existing/p
 
 **[Please note submission has been closed]** To enter the poster contest, please write a half-page abstract (word limit: 250 words) on the topic of your poster and submit it by **15 September 2026** via EasyChair: [https://easychair.org/conferences/?conf=aliceeve2026](https://easychair.org/conferences/?conf=aliceeve2026){:target="_blank" rel="noopener noreferrer"}
 
-Notifications were sent out on **28 September 2026**. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Utrecht to present during the poster session. At the end of the day, prizes will be awarded for the winning posters in each category.
+Notifications were sent out on **28 September 2026**. Selected participants are expected to bring the poster (up to size A0 portrait or A1 landscape) described by their abstract with them to Utrecht to present during the poster session. At the end of the day, prizes will be awarded for the winning posters.
 
 If you have any questions, don't hesitate to get in touch: [alice.eve@uu.nl](mailto:alice.eve@uu.nl). We look forward to seeing you in Utrecht!
 
